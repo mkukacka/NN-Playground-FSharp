@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpTutorial", "FSharpTutorial\FSharpTutorial.fsproj", "{0C684F0A-0D79-428B-8492-32EEAB89DA65}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "NN-Basic", "NN-Basic\NN-Basic.fsproj", "{41A0DC56-5518-4667-B17C-FF75AF89900A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0C684F0A-0D79-428B-8492-32EEAB89DA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C684F0A-0D79-428B-8492-32EEAB89DA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C684F0A-0D79-428B-8492-32EEAB89DA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A0DC56-5518-4667-B17C-FF75AF89900A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A0DC56-5518-4667-B17C-FF75AF89900A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A0DC56-5518-4667-B17C-FF75AF89900A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A0DC56-5518-4667-B17C-FF75AF89900A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
